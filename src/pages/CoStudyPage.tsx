@@ -16,9 +16,9 @@ const courses = [
 ];
 
 const studyBuddy = {
-  name: "John Smith",
+  name: "Akram Faisal",
   avatar: "/placeholder.svg",
-  location: "London, UK",
+  location: "Espira Kinrara, Puchong",
   currentCourse: "Introduction to Philosophy",
   progress: 52,
   studyStreak: 7,
@@ -27,9 +27,9 @@ const studyBuddy = {
 };
 
 const chatMessages = [
-  { user: "John", message: "Hey! Ready to tackle this philosophy module?", time: "2 min ago" },
+  { user: "Akram", message: "Hey! Ready to tackle this philosophy module?", time: "2 min ago" },
   { user: "You", message: "Absolutely! I'm excited to discuss Aristotle's ethics", time: "1 min ago" },
-  { user: "John", message: "Perfect! I had some questions about virtue ethics", time: "30 sec ago" }
+  { user: "Akram", message: "Perfect! I had some questions about virtue ethics", time: "30 sec ago" }
 ];
 
 export default function CoStudyPage() {
